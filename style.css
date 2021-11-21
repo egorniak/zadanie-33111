@@ -1,0 +1,8 @@
+h1, h3 {
+    background-color:yellowgreen;
+}
+p {
+    color:darkslateblue;
+}
+
+h1 + h3 {color: maroon;}
